@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /HTML-Sample-Page.html
+  - source: /Sample HTML.html
     destination: /var/www/html/
